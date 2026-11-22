@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp & build outputs
+*.zip
+campus-lost-found-copyable-code.txt
+tmp/
+output/
+.DS_Store
+Thumbs.db

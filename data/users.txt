@@ -1,0 +1,2 @@
+{"username":"student1","password":"student123","role":"student","name":"Student User"}
+{"username":"admin","password":"admin123","role":"admin","name":"Campus Administrator"}
